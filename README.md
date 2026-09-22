@@ -288,23 +288,26 @@ The application includes job browsing, authentication, job-related interactions,
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabikunEthika&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=transparent" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SabikunEthika&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+<img
+ src="https://streak-stats.demolab.com/?user=SabikunEthika&hide_border=true&theme=transparent"
+ height="180"
+ alt="GitHub Streak Statistics"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SabikunEthika&hide_border=true&theme=transparent" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabikunEthika&layout=compact&langs_count=10&count_private=true&hide_border=true&theme=transparent" height="180" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabikunEthika&theme=github-compact&hide_border=true&area=true" width="100%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabikunEthika&layout=compact&langs_count=10&count_private=true&hide_border=true&theme=transparent"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -317,14 +320,20 @@ The application includes job browsing, authentication, job-related interactions,
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/output/github-snake-dark.svg"
     />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/output/github-snake.svg"
-    />
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/output/github-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/output/github-snake.svg"
+  alt="GitHub contribution snake animation"
+  width="100%"
+/>
+```
+
   </picture>
 </p>
 
@@ -345,14 +354,16 @@ The application includes job browsing, authentication, job-related interactions,
 ## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/SabikunEthika">
-    <img src="https://img.shields.io/badge/GitHub-SabikunEthika-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/sabikun027">
-    <img src="https://img.shields.io/badge/LinkedIn-Sabikun%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Sabikun%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
+
   <a href="mailto:alam.sabikun04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
   </a>
 </p>
 
