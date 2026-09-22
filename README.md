@@ -301,14 +301,20 @@ The application includes job browsing, authentication, job-related interactions,
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/output/github-snake-dark.svg"
     />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/output/github-snake.svg"
-    />
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/output/github-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/output/github-snake.svg"
+  alt="GitHub contribution snake animation"
+  width="100%"
+/>
+```
+
   </picture>
 </p>
 
@@ -329,14 +335,16 @@ The application includes job browsing, authentication, job-related interactions,
 ## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/SabikunEthika">
-    <img src="https://img.shields.io/badge/GitHub-SabikunEthika-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/sabikun027">
-    <img src="https://img.shields.io/badge/LinkedIn-Sabikun%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Sabikun%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
+
   <a href="mailto:alam.sabikun04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
   </a>
 </p>
 
