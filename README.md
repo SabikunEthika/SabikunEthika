@@ -6,10 +6,6 @@
   <img src="./banner.svg" width="100%" alt="Sabikun Ethika" />
 </p>
 
-<p align="center">
-  Dhaka, Bangladesh
-</p>
-
 ---
 
 ## About Me
