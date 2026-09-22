@@ -3,7 +3,7 @@
 ### Computer Science & Engineering Student | Full-Stack Developer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SabikunEthika/SabikunEthika/main/banner.svg" width="100%" alt="Sabikun Ethika"/>
+  <img src="./banner.svg" width="100%" alt="Sabikun Ethika" />
 </p>
 
 <p align="center">
@@ -285,26 +285,10 @@ The application includes job browsing, authentication, job-related interactions,
 
 ---
 
-## GitHub Statistics
+## GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabikunEthika&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&theme=transparent" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SabikunEthika&hide_border=true&theme=transparent" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabikunEthika&layout=compact&langs_count=10&count_private=true&hide_border=true&theme=transparent" height="180" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabikunEthika&theme=github-compact&hide_border=true&area=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=SabikunEthika&hide_border=true&theme=transparent" height="180" alt="GitHub contribution streak" />
 </p>
 
 ---
