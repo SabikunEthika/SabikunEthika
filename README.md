@@ -190,11 +190,11 @@ The project provides students with a centralized environment for sharing academi
 
 ---
 
-### GridWise BUP 2026
+### GridWise-Energy-Optimizer
 
 **Optimization and Decision-Support Application**
 
-GridWise BUP 2026 is a software project developed for the BUP 2026 project showcase. It combines an API-based backend, data validation, generative AI integration, and mathematical optimization techniques to address a practical decision-making problem.
+GridWise-Energy-Optimizer is a software project developed for the BUP 2026 project showcase. It combines an API-based backend, data validation, generative AI integration, and mathematical optimization techniques to address a practical decision-making problem.
 
 **Technology Stack**
 
@@ -211,7 +211,7 @@ GridWise BUP 2026 is a software project developed for the BUP 2026 project showc
 * Docker
 * Docker Compose
 
-[View Repository](https://github.com/SabikunEthika/GridWise-BUP-2026)
+[View Repository](https://github.com/SabikunEthika/GridWise-Energy-Optimizer)
 
 ---
 
