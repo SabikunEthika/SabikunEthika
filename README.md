@@ -1,4 +1,4 @@
-# Sabikun Ethika
+# Sabikun Alam Ethika
 
 ### Computer Science & Engineering Student | Full-Stack Developer
 
