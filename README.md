@@ -64,6 +64,46 @@ I believe in learning by building, understanding how systems work, and continuou
 
 ## Projects
 
+## ResumeOrbit
+
+**AI-Powered Resume Analyzer and Job Description Matcher**
+
+ResumeOrbit is an AI-powered web application that helps users evaluate their resumes against job descriptions. It provides resume quality feedback, identifies skill gaps, and generates actionable suggestions to improve alignment with a target role.
+
+**Technology Stack**
+
+**Frontend**
+- React
+- TypeScript
+- Vite
+
+**Backend**
+- Python
+- FastAPI
+- Pydantic
+
+**AI Integration**
+- Google Gemini API
+
+**Testing**
+- Pytest
+
+**Key Features**
+- Resume upload with PDF and DOCX support
+- Resume analysis against job descriptions
+- AI-generated feedback and resume improvement suggestions
+- Skill gap identification
+- Resume quality assessment
+- ATS-oriented feedback
+- Downloadable PDF analysis report
+- Input validation and error handling
+
+**Note:** Resume analysis is stateless; analysis results are not persistently stored.
+
+[View Repository](https://github.com/SabikunEthika/AI_ResumeAnalyzer)
+
+---
+
 ### GetTally
 
 **Chat-Native Order and Earnings Tracker for Small Online Sellers**
