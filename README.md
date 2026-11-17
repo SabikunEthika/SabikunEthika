@@ -1,8 +1,7 @@
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Sabikun Ethika" />
 </p>
-### Computer Science & Engineering Student | Full-Stack Developer
----
+Computer Science & Engineering Student | Full-Stack Developer
 
 ## About Me
 
