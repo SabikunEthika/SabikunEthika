@@ -1,11 +1,7 @@
-# Sabikun Alam Ethika
-
-### Computer Science & Engineering Student | Full-Stack Developer
-
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Sabikun Ethika" />
 </p>
-
+### Computer Science & Engineering Student | Full-Stack Developer
 ---
 
 ## About Me
